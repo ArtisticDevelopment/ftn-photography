@@ -233,9 +233,17 @@ margin-top: 20px;
       padding: 20px;
     }
 
+    .navbar h1 {
+      font-size: 25px;
+    }
+
     .navbar a {
       padding: 10px 10px;
       margin: 3px;
+    }
+
+    .home .content h {
+      font-size: 10px;
     }
     
     .flex-items {
